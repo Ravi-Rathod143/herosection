@@ -8,6 +8,10 @@ npm install
 npm run dev
 ```
 
+github:  https://github.com/Ravi-Rathod143/herosection.git
+
+live : https://herosection-7mvx.vercel.app/
+
 Visit http://localhost:5173
 
 ## Deploy
